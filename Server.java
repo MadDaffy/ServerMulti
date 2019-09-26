@@ -35,7 +35,7 @@ class ServeOne extends Thread {
 //            DataBaseInsert.insertInto(dayni.get(0));
 //            DataBaseInsert.insertInto(dayni.get(1));
 //            DataBaseInsert.insertInto(dayni.get(2));
-            System.out.println("gavno");
+            
 
         } catch (IOException e ) {
             System.err.println("IO Exception");
